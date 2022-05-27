@@ -1,4 +1,4 @@
-### HEY THERE <Coders />
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 <div id="header" align="center">
   <img src="https://github.com/guilhermelino14/guilhermelino14/blob/main/283736948_5230819820343782_3074391008366628528_n.jpg?raw=true" width="100"/>
 </div>
