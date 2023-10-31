@@ -11,14 +11,3 @@
 
 ---
 
-### :woman_technologist: About Me :
-<p>
-  <em>
-      Name: Guilherme Lino</br>
-      Age: 23 </br>
-      Software Enginner at <a href="https://www.ipleiria.pt/">Instituto Politécnico de Leiria</a></br>
-  </em>
-</p>
-
----
-
